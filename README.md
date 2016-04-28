@@ -1,2 +1,2 @@
 # material-design
-A gist of Material Design principles, especially for the iOS Developers.
+A gist of Material Design UI principles, especially for the iOS Developers.
